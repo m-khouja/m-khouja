@@ -1,6 +1,6 @@
 
 Hi 👋 My name is Mohammad Alkhouja
-==================================web developer mobile application--------------------------------I learned the code through the university about 3 years ago, and through many courses that help in my field, and currently I am working on developing myself in Backend Development.* 🌍  I'm based in Lebanon Tripoli* ✉️  You can contact me at [mohammadkhouja20@gmail.com](mailto:mohammadkhouja20@gmail.com)* 🧠  I'm learning Coding about web development* 🤝  I'm open to collaborating on In any field related to programming
+web developer mobile applicationI learned the code through the university about 3 years ago, and through many courses that help in my field, and currently I am working on developing myself in Backend Development.* 🌍  I'm based in Lebanon Tripoli* ✉️  You can contact me at [mohammadkhouja20@gmail.com](mailto:mohammadkhouja20@gmail.com)* 🧠  I'm learning Coding about web development* 🤝  I'm open to collaborating on In any field related to programming
 
 ### Skills
 
